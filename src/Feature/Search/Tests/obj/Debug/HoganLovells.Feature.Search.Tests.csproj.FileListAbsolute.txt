@@ -1,0 +1,4 @@
+D:\Project\HoganLovells\src\Feature\Search\Tests\bin\Debug\HoganLovells.Feature.Search.Tests.dll
+D:\Project\HoganLovells\src\Feature\Search\Tests\bin\Debug\HoganLovells.Feature.Search.Tests.pdb
+D:\Project\HoganLovells\src\Feature\Search\Tests\obj\Debug\HoganLovells.Feature.Search.Tests.dll
+D:\Project\HoganLovells\src\Feature\Search\Tests\obj\Debug\HoganLovells.Feature.Search.Tests.pdb

@@ -1,0 +1,4 @@
+D:\Project\HoganLovells\src\Feature\Contacts\Tests\bin\Debug\HoganLovells.Feature.Contacts.Tests.dll
+D:\Project\HoganLovells\src\Feature\Contacts\Tests\bin\Debug\HoganLovells.Feature.Contacts.Tests.pdb
+D:\Project\HoganLovells\src\Feature\Contacts\Tests\obj\Debug\HoganLovells.Feature.Contacts.Tests.dll
+D:\Project\HoganLovells\src\Feature\Contacts\Tests\obj\Debug\HoganLovells.Feature.Contacts.Tests.pdb

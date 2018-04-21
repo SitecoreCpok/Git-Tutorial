@@ -1,0 +1,4 @@
+D:\Project\HoganLovells\src\Foundation\Theming\Tests\bin\Debug\HoganLovells.Foundation.Theming.Tests.dll
+D:\Project\HoganLovells\src\Foundation\Theming\Tests\bin\Debug\HoganLovells.Foundation.Theming.Tests.pdb
+D:\Project\HoganLovells\src\Foundation\Theming\Tests\obj\Debug\HoganLovells.Foundation.Theming.Tests.dll
+D:\Project\HoganLovells\src\Foundation\Theming\Tests\obj\Debug\HoganLovells.Foundation.Theming.Tests.pdb

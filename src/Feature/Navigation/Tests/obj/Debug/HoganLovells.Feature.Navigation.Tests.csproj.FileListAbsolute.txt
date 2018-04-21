@@ -1,0 +1,4 @@
+D:\Project\HoganLovells\src\Feature\Navigation\Tests\bin\Debug\HoganLovells.Feature.Navigation.Tests.dll
+D:\Project\HoganLovells\src\Feature\Navigation\Tests\bin\Debug\HoganLovells.Feature.Navigation.Tests.pdb
+D:\Project\HoganLovells\src\Feature\Navigation\Tests\obj\Debug\HoganLovells.Feature.Navigation.Tests.dll
+D:\Project\HoganLovells\src\Feature\Navigation\Tests\obj\Debug\HoganLovells.Feature.Navigation.Tests.pdb

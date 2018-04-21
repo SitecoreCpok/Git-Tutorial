@@ -1,0 +1,5 @@
+D:\Project\HoganLovells\src\Foundation\CustomError\Tests\bin\Debug\HoganLovells.Foundation.CustomError.Tests.dll
+D:\Project\HoganLovells\src\Foundation\CustomError\Tests\bin\Debug\HoganLovells.Foundation.CustomError.Tests.pdb
+D:\Project\HoganLovells\src\Foundation\CustomError\Tests\obj\Debug\HoganLovells.Foundation.CustomError.Tests.csprojResolveAssemblyReference.cache
+D:\Project\HoganLovells\src\Foundation\CustomError\Tests\obj\Debug\HoganLovells.Foundation.CustomError.Tests.dll
+D:\Project\HoganLovells\src\Foundation\CustomError\Tests\obj\Debug\HoganLovells.Foundation.CustomError.Tests.pdb

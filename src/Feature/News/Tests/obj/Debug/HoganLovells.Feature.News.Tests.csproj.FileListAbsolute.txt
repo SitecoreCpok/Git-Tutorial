@@ -1,0 +1,4 @@
+D:\Project\HoganLovells\src\Feature\News\Tests\bin\Debug\HoganLovells.Feature.News.Tests.dll
+D:\Project\HoganLovells\src\Feature\News\Tests\bin\Debug\HoganLovells.Feature.News.Tests.pdb
+D:\Project\HoganLovells\src\Feature\News\Tests\obj\Debug\HoganLovells.Feature.News.Tests.dll
+D:\Project\HoganLovells\src\Feature\News\Tests\obj\Debug\HoganLovells.Feature.News.Tests.pdb

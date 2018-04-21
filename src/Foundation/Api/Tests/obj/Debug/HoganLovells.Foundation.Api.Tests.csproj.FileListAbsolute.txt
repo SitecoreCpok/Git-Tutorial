@@ -1,0 +1,5 @@
+D:\Project\HoganLovells\src\Foundation\Api\Tests\bin\Debug\HoganLovells.Foundation.Api.Tests.dll
+D:\Project\HoganLovells\src\Foundation\Api\Tests\bin\Debug\HoganLovells.Foundation.Api.Tests.pdb
+D:\Project\HoganLovells\src\Foundation\Api\Tests\obj\Debug\HoganLovells.Foundation.Api.Tests.csprojResolveAssemblyReference.cache
+D:\Project\HoganLovells\src\Foundation\Api\Tests\obj\Debug\HoganLovells.Foundation.Api.Tests.dll
+D:\Project\HoganLovells\src\Foundation\Api\Tests\obj\Debug\HoganLovells.Foundation.Api.Tests.pdb

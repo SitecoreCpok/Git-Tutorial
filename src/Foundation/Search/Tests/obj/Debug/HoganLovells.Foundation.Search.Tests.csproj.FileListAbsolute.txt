@@ -1,0 +1,5 @@
+D:\Project\HoganLovells\src\Foundation\Search\Tests\bin\Debug\HoganLovells.Foundation.Search.Tests.dll
+D:\Project\HoganLovells\src\Foundation\Search\Tests\bin\Debug\HoganLovells.Foundation.Search.Tests.pdb
+D:\Project\HoganLovells\src\Foundation\Search\Tests\obj\Debug\HoganLovells.Foundation.Search.Tests.csprojResolveAssemblyReference.cache
+D:\Project\HoganLovells\src\Foundation\Search\Tests\obj\Debug\HoganLovells.Foundation.Search.Tests.dll
+D:\Project\HoganLovells\src\Foundation\Search\Tests\obj\Debug\HoganLovells.Foundation.Search.Tests.pdb
